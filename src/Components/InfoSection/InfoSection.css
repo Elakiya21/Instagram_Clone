@@ -1,0 +1,17 @@
+.InfoSection_info {
+  width: 344px;
+  height: 54px;
+  margin-top: 54px;
+  display: flex;
+}
+.InfoSection_Username_describtion {
+  margin-top: 6px;
+  margin-left: 15px;
+}
+.InfoSection_Username {
+  font-size: 15px;
+  font-weight: 600;
+}
+.InfoSection_Describtion {
+  font-size: 14px;
+}

@@ -1,0 +1,21 @@
+.suggestion_container {
+  width: 254px;
+  height: 254px;
+  margin-top: 20px;
+}
+.suggestion_body {
+  display: flex;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.suggestion_header {
+  font-size: 15px;
+  font-weight: 600;
+  color: gray;
+}
+.suggestion_friendlist {
+  margin-left: 10px;
+  margin-top: 5px;
+  font-size: 15px;
+  font-weight: 500;
+}

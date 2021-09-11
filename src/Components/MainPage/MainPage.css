@@ -1,0 +1,29 @@
+.mainpage_upload img {
+  height: 40px;
+  width: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.mainpage_upload {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+}
+.mainpage_line {
+  width: 255px;
+  height: 0px;
+  border: 1px solid rgb(235, 233, 233);
+  margin-top: 20px;
+}
+
+.mainpage_line1 {
+  margin-left: 13px;
+}
+.fileupload > input {
+  display: none;
+}
+.progressBar {
+  margin-left: 230px;
+  width: 140px;
+  margin-top: 10px;
+}

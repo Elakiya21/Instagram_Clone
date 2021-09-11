@@ -1,0 +1,37 @@
+.navbar_barContent {
+  height: 54px;
+  background-color: white;
+  border: 1px solid #dbdbdb;
+}
+.navbar_logo {
+  width: 105px;
+  margin-top: 10px;
+}
+.navbacr_icons {
+  display: flex;
+}
+.navbacr_icons img {
+  width: 25px;
+  margin: 15px 10px;
+}
+.Avatar {
+  max-width: 25px;
+  max-height: 25px;
+  margin: 15px 10px;
+}
+.navbar_search {
+  margin-top: 15px;
+  height: 23px;
+  width: 200px;
+  background-color: #fafafa;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+.Navbar_progress {
+  margin-top: 15px;
+}
+.logOut {
+  margin-top: 15px;
+  color: rgb(67, 139, 199);
+}

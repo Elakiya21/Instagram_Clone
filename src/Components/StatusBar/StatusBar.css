@@ -1,0 +1,40 @@
+.statusbar_container {
+  height: 120px;
+  width: 600px;
+  border: 1px solid #ccc;
+  background-color: white;
+  margin-top: 25px;
+  border-radius: 2px;
+  display: flex;
+  overflow-x: scroll;
+}
+.statusbar_container::-webkit-scrollbar {
+  display: none;
+}
+.statusbar_Avatar {
+  margin-top: 20px;
+  margin-left: 13px;
+  border: 2px solid #eb605d;
+}
+
+.statusbar_text {
+  font-size: 12px;
+  max-width: 60px;
+  margin-left: 10px;
+  overflow-x: hidden;
+  text-align: center;
+}
+.status {
+  padding-left: 10px;
+}
+.statusbar_upload {
+  height: 55px;
+  width: 55px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.progressBar1 {
+  margin-left: 12px;
+  margin-top: 10px;
+  width: 70px;
+}

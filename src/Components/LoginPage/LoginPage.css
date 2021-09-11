@@ -1,0 +1,111 @@
+.loginpage_main {
+  background-color: #f8f8f8;
+}
+
+.loginpage_logo {
+  margin-top: 15px;
+  width: 174px;
+  margin-bottom: 20px;
+}
+.loginpage_login {
+  width: 350px;
+  border: 1px solid #ccc;
+  margin-top: 40px;
+  background-color: white;
+}
+.loginpage_form input {
+  width: 250px;
+  height: 36px;
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.loginpage_form input[type="text"] {
+  margin-top: 5px;
+}
+.loginpage_form input[type="password"] {
+  margin-top: 5px;
+  margin-bottom: 13px;
+}
+.loginpage_form input[type="submit"] {
+  width: 256px;
+  background-color: rgba(66, 153, 211, 0.349);
+  border: none;
+  height: 30px;
+  margin-bottom: 20px;
+}
+::placeholder {
+  color: hsl(0, 2%, 57%);
+  font-size: 12px;
+  padding-left: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.loginpage_ordiv {
+  display: flex;
+  justify-content: center;
+}
+.loginpage_hr {
+  width: 104px;
+  border: 0.2px solid #ccc;
+  height: 0px;
+  margin-top: 8px;
+}
+.loginpage_or {
+  margin-left: 13px;
+  margin-right: 10px;
+  font-size: 12px;
+  color: hsl(0, 2%, 57%);
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.loginpage_fbfp img {
+  height: 16px;
+  margin-right: 5px;
+}
+.loginpage_fb {
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: #385185;
+  font-weight: bold;
+}
+.loginpage_fp {
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+.loginpage_singupOption {
+  height: 56px;
+  width: 350px;
+  border: 1px solid #ccc;
+  margin-top: 13px;
+  background-color: white;
+  font-size: 14px;
+  text-align: center;
+}
+.loginpage_singup {
+  margin-top: 17px;
+}
+.loginpage_singup span {
+  color: rgb(36, 195, 235);
+  margin-left: 3px;
+  font-weight: bold;
+}
+.loginpage_singin span {
+  color: rgb(36, 195, 235);
+  margin-left: 3px;
+  font-weight: bold;
+}
+.loginpage_singin {
+  margin-top: 17px;
+}
+.loginpage_store img {
+  height: 40px;
+  width: 136px;
+  margin-left: 10px;
+}
+.loginpage_app {
+  margin-top: 15px;
+  font-size: 14px;
+}
+.loginpage_store {
+  margin-top: 15px;
+}
